@@ -1,0 +1,41 @@
+#top {
+    height: 100vh;
+    width: 100%;
+    background-color: black;
+    z-index: 0;
+    align-self: center;
+    border-color: black;
+    margin: auto;
+}
+.greenSmallest {
+    z-index: 1;
+    color: rgb(98, 177, 144);   
+    text-align: center; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+.hulu {
+    color: white;
+    font-size: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.whiteSmaller {
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.whiteSmallest {
+   color: grey;
+   text-align: center; 
+}
+.freeTrialButton {
+    width: 40%;
+    margin-left: 30%;
+    border-radius: .5em;
+    padding: 1em;
+    font-size: 8pt;
+    font-weight: bold;
+}
+button {
+}
